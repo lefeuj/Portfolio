@@ -45,7 +45,7 @@
 
       <nav id="navbar" class="nav-menu navbar">
         <ul>
-          <li><a href="index.html#portfolio" class="nav-link scrollto active"><i class="bx bx-rewind"></i> <span>Retour</span></a></li>
+          <li><a href="index.php#portfolio" class="nav-link scrollto active"><i class="bx bx-rewind"></i> <span>Retour</span></a></li>
         </ul>
       </nav><!-- .nav-menu -->
     </div>
@@ -58,16 +58,15 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>PPE-1 // ....</h2>
+          <h2>Utilisation du module turtle</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
-            <li>PPE-1</li>
+            <li><a href="index.php">Home</a></li>
+            <li> Projet visuel </li>
           </ol>
         </div>
 
       </div>
-    </section>
-    <!-- End Breadcrumbs -->
+    </section><!-- End Breadcrumbs -->
 
     <!-- ======= Portfolio Details Section ======= -->
     <section id="portfolio-details" class="portfolio-details">
@@ -80,11 +79,11 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-2.jpg" alt="">
+                  <img src="assets/img/portfolio/portfolio-details-20.jpg" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-3.jpg" alt="">
+                  <img src="assets/img/portfolio/portfolio-details-21.jpg" alt="">
                 </div>
 
               </div>
@@ -96,17 +95,18 @@
             <div class="portfolio-info">
               <h3>Details du projet</h3>
               <ul>
-                <li><strong>Language</strong>: C#</li>
+                <li><strong>Language</strong>: Python </li>
                 <li><strong>Statut</strong>: Achevé </li>
-                <li><strong>But</strong>: Créer un ticket </li>
-                <li><strong>Date du Projet</strong>: 02/12/2021</li>
-                <li><a href="assets/programmes/Ticket.zip" download="WinAppTicket" class="btn btn-success btn-sm">Télécharger le zip</a></li>
+                <li><strong>But</strong>: Initiation au module Turtle de python </li>
+                <li><strong>Date du Projet</strong>: 11/11/2021</li>
+                <li><a href="assets/programmes/virus.zip" download="Infini" class="btn btn-success btn-sm">Télécharger l'infini</a></li>
+                <li><a href="assets/programmes/infini.zip" download="Virus" class="btn btn-success btn-sm">Télécharger le virus</a></li>
               </ul>
             </div>
             <div class="portfolio-description">
               <h2>A propos de ce projet</h2>
               <p>
-                Ce petit programme à pour but de créer et d'archiver des tickets utilisateurs, ébergés sur une base de données, et proteger par mot de passe.
+                Je souhaitais m'initier au module graphique "Turtle" de python.
               </p>
             </div>
           </div>
@@ -148,4 +148,4 @@
 
 </body>
 
-</html>
+</php>

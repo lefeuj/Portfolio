@@ -45,7 +45,7 @@
 
       <nav id="navbar" class="nav-menu navbar">
         <ul>
-          <li><a href="index.html#portfolio" class="nav-link scrollto active"><i class="bx bx-rewind"></i> <span>Retour</span></a></li>
+          <li><a href="index.php#portfolio" class="nav-link scrollto active"><i class="bx bx-rewind"></i> <span>Retour</span></a></li>
         </ul>
       </nav><!-- .nav-menu -->
     </div>
@@ -60,7 +60,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Conversion de bases </h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li> Conversion </li>
           </ol>
         </div>
@@ -137,4 +137,4 @@
 
 </body>
 
-</html>
+</php>

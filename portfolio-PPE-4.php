@@ -45,7 +45,7 @@
 
       <nav id="navbar" class="nav-menu navbar">
         <ul>
-          <li><a href="index.html#portfolio" class="nav-link scrollto active"><i class="bx bx-rewind"></i> <span>Retour</span></a></li>
+          <li><a href="index.php#portfolio" class="nav-link scrollto active"><i class="bx bx-rewind"></i> <span>Retour</span></a></li>
         </ul>
       </nav><!-- .nav-menu -->
     </div>
@@ -58,15 +58,16 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Programme Palindrome</h2>
+          <h2>PPE-4 // ....</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
-            <li> Palindrome</li>
+            <li><a href="index.php">Home</a></li>
+            <li>PPE-4</li>
           </ol>
         </div>
 
       </div>
-    </section><!-- End Breadcrumbs -->
+    </section>
+    <!-- End Breadcrumbs -->
 
     <!-- ======= Portfolio Details Section ======= -->
     <section id="portfolio-details" class="portfolio-details">
@@ -79,11 +80,11 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-10.jpg" alt="">
+                  <img src="assets/img/portfolio/portfolio-details-2.jpg" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-11.jpg" alt="">
+                  <img src="assets/img/portfolio/portfolio-details-3.jpg" alt="">
                 </div>
 
               </div>
@@ -95,17 +96,17 @@
             <div class="portfolio-info">
               <h3>Details du projet</h3>
               <ul>
-                <li><strong>Language</strong>: Python</li>
+                <li><strong>Language</strong>: C#</li>
                 <li><strong>Statut</strong>: Achevé </li>
-                <li><strong>But</strong>: Vérifie une chaine de caractere  </li>
-                <li><strong>Date du Projet</strong>: 29/03/2021</li>
-                <li><a href="assets/programmes/devoir-palindrome.zip" download="Programme Palindrome" class="btn btn-success btn-sm">Télécharger le zip</a></li>
+                <li><strong>But</strong>: Créer un ticket </li>
+                <li><strong>Date du Projet</strong>: 02/12/2021</li>
+                <li><a href="assets/programmes/Ticket.zip" download="WinAppTicket" class="btn btn-success btn-sm">Télécharger le zip</a></li>
               </ul>
             </div>
             <div class="portfolio-description">
               <h2>A propos de ce projet</h2>
               <p>
-                Le but de ce petit programme est de vérifier si une chaine de caractere saisis par l'utilisateur est un palindrome ou non.
+                Ce petit programme à pour but de créer et d'archiver des tickets utilisateurs, ébergés sur une base de données, et proteger par mot de passe.
               </p>
             </div>
           </div>
@@ -147,4 +148,4 @@
 
 </body>
 
-</html>
+</php>

@@ -45,7 +45,7 @@
 
       <nav id="navbar" class="nav-menu navbar">
         <ul>
-          <li><a href="index.html#portfolio" class="nav-link scrollto active"><i class="bx bx-rewind"></i> <span>Retour</span></a></li>
+          <li><a href="index.php#portfolio" class="nav-link scrollto active"><i class="bx bx-rewind"></i> <span>Retour</span></a></li>
         </ul>
       </nav><!-- .nav-menu -->
     </div>
@@ -58,10 +58,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Recherche Dicotomique</h2>
+          <h2>Programme Palindrome</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
-            <li> Dicotomie</li>
+            <li><a href="index.php">Home</a></li>
+            <li> Palindrome</li>
           </ol>
         </div>
 
@@ -79,11 +79,11 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-12.jpg" alt="">
+                  <img src="assets/img/portfolio/portfolio-details-10.jpg" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-13.jpg" alt="">
+                  <img src="assets/img/portfolio/portfolio-details-11.jpg" alt="">
                 </div>
 
               </div>
@@ -97,15 +97,15 @@
               <ul>
                 <li><strong>Language</strong>: Python</li>
                 <li><strong>Statut</strong>: Achevé </li>
-                <li><strong>But</strong>: Effectue une recherche de façons dicotomique  </li>
-                <li><strong>Date du Projet</strong>: 02/05/2021</li>
-                <li><a href="assets/programmes/dicotomie.zip" download="Recherche Dicotomique" class="btn btn-success btn-sm">Télécharger le zip</a></li>
+                <li><strong>But</strong>: Vérifie une chaine de caractere  </li>
+                <li><strong>Date du Projet</strong>: 29/03/2021</li>
+                <li><a href="assets/programmes/devoir-palindrome.zip" download="Programme Palindrome" class="btn btn-success btn-sm">Télécharger le zip</a></li>
               </ul>
             </div>
             <div class="portfolio-description">
               <h2>A propos de ce projet</h2>
               <p>
-                Le but de ce petit programme est d'effectuer une recherche dicotomique dans une liste déjà trier, l'utilisateur doit saisir un nombre et le programme devra rechercher ce nombre dans la liste, dire s'il existe, et si oui à quelle position.
+                Le but de ce petit programme est de vérifier si une chaine de caractere saisis par l'utilisateur est un palindrome ou non.
               </p>
             </div>
           </div>
@@ -147,4 +147,4 @@
 
 </body>
 
-</html>
+</php>
