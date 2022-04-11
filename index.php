@@ -345,6 +345,16 @@
               </div>
             </div>
 
+            <div class="col-lg-4 col-md-6 portfolio-item filter-PP">
+              <div class="portfolio-wrap">
+                <img src="assets/img/portfolio/portfolio-details-26.jpg" class="img-fluid" alt="">
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-details-26.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Projets Blender "><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-PP-5.php" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+
           </div>
 
         </div>
