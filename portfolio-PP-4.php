@@ -79,11 +79,11 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-20.jpg" alt="">
+                  <img src="assets/img/portfolio/portfolio-details-21.jpg" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-21.jpg" alt="">
+                  <img src="assets/img/portfolio/portfolio-details-22.jpg" alt="">
                 </div>
 
               </div>
@@ -106,7 +106,7 @@
             <div class="portfolio-description">
               <h2>A propos de ce projet</h2>
               <p>
-                Je souhaitais m'initier au module graphique "Turtle" de python.
+                Je souhaitais m'initier au module graphique "Turtle" de python. J'ai donc suivis quelques tutoriels pour créer ces animations.
               </p>
             </div>
           </div>

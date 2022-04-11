@@ -76,8 +76,7 @@
 
           <div class="col-lg-8">
             <div class="portfolio-details-slider swiper">
-              <img src="assets/img/portfolio/portfolio-details-16.jpg" alt="">
-              <div class="swiper-pagination"></div>
+              <img src="assets/img/portfolio/portfolio-details-20.jpg" alt="">
             </div>
           </div>
 
