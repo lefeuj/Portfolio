@@ -219,7 +219,7 @@
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/ppe-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/ppe-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-1"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/ppe-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-1"><i class="bx bx-search-alt-2"></i></a>
                   <a href="portfolio-PPE-1.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -229,7 +229,7 @@
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/ppe-2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/ppe-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-2"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/ppe-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-2"><i class="bx bx-search-alt-2"></i></a>
                   <a href="portfolio-PPE-2.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -239,7 +239,7 @@
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/ppe-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/ppe-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-3"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/ppe-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-3"><i class="bx bx-search-alt-2"></i></a>
                   <a href="portfolio-PPE-3.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -249,7 +249,7 @@
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/ppe-4.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/ppe-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-4"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/ppe-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-4"><i class="bx bx-search-alt-2"></i></a>
                   <a href="portfolio-PPE-4.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -259,7 +259,7 @@
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/portfolio-details-10.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-10.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Palindrome"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/portfolio-details-10.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Palindrome"><i class="bx bx-search-alt-2"></i></a>
                   <a href="portfolio-PE-1.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -269,7 +269,7 @@
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/portfolio-details-12.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-12.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Recherche Dicotomique"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/portfolio-details-12.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Recherche Dicotomique"><i class="bx bx-search-alt-2"></i></a>
                   <a href="portfolio-PE-2.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -279,7 +279,7 @@
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/portfolio-details-14.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-14.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Manipulation de liste"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/portfolio-details-14.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Manipulation de liste"><i class="bx bx-search-alt-2"></i></a>
                   <a href="portfolio-PE-3.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -289,7 +289,7 @@
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/portfolio-details-16.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-16.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Convertion octet"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/portfolio-details-16.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Convertion octet"><i class="bx bx-search-alt-2"></i></a>
                   <a href="portfolio-PE-4.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -299,7 +299,7 @@
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/portfolio-details-20.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-20.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Convertion octet"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/portfolio-details-20.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Convertion octet"><i class="bx bx-search-alt-2"></i></a>
                   <a href="portfolio-PE-5.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -309,7 +309,7 @@
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/portfolio-details-4.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Le juste prix"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/portfolio-details-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Le juste prix"><i class="bx bx-search-alt-2"></i></a>
                   <a href="portfolio-PP-1.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -319,7 +319,7 @@
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/portfolio-details-7.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Test Mail / MAC / IP"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/portfolio-details-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Test Mail / MAC / IP"><i class="bx bx-search-alt-2"></i></a>
                   <a href="portfolio-PP-2.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -329,7 +329,7 @@
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/portfolio-details-17.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-17.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Jeu du pendu"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/portfolio-details-17.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Jeu du pendu"><i class="bx bx-search-alt-2"></i></a>
                   <a href="portfolio-PP-3.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -339,7 +339,7 @@
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/portfolio-details-21.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-21.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Python turtle "><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/portfolio-details-21.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Python turtle "><i class="bx bx-search-alt-2"></i></a>
                   <a href="portfolio-PP-4.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -349,7 +349,7 @@
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/portfolio-details-26.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-26.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Projets Blender "><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/portfolio-details-26.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Projets Blender "><i class="bx bx-search-alt-2"></i></a>
                   <a href="portfolio-PP-5.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>

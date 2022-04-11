@@ -45,7 +45,7 @@
 
       <nav id="navbar" class="nav-menu navbar">
         <ul>
-          <li><a href="index.php#portfolio" class="nav-link scrollto active"><i class="bx bx-rewind"></i> <span>Retour</span></a></li>
+          <li><a href="index.php#portfolio" class="nav-link scrollto active"><i class="bx bx-arrow-back"></i> <span>Retour</span></a></li>
         </ul>
       </nav><!-- .nav-menu -->
     </div>
