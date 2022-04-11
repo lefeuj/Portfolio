@@ -105,15 +105,15 @@
               <ul>
                 <li><strong>IDE</strong>: Blender </li>
                 <li><strong>Statut</strong>: Achevés </li>
-                <li><strong>But</strong>: xxxxx </li>
-                <li><strong>Date du Projet</strong>: 24/12/2020</li>
+                <li><strong>But</strong>: Débuter la programation 3D </li>
+                <li><strong>Date du Projet</strong>: 24/12/2020 </li>
                 <li><a href="assets/programmes/blender-projets.zip" download="Projets Blender" class="btn btn-success btn-sm">Télécharger les ZIP</a></li>
               </ul>
             </div>
             <div class="portfolio-description">
               <h2>A propos de ce projet</h2>
               <p>
-                Je souhaitais acquerir de nouvelles connaissances 3D avec un autre logiciel qu'Autocad, l'ayant déjà utiliser quand j'étudiais l'architecture .
+                Je souhaitais acquerir de nouvelles compétences 3D avec un autre logiciel qu'Autocad, l'ayant déjà utiliser quand j'étudiais l'architecture .
               </p>
             </div>
           </div>
