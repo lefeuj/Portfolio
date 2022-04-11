@@ -217,9 +217,9 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-PPE">
               <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/ppe-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-1"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/ppe-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-1"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-PPE-1.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -227,9 +227,9 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-PPE">
               <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-details-2.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/ppe-2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-2"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/ppe-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-PPE-2.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -237,9 +237,9 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-PPE">
               <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/3.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/ppe-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-3"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/ppe-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-PPE-3.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -247,9 +247,9 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-PPE">
               <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/4.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/ppe-4.jpg" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-4"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/ppe-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-4"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-PPE-4.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>

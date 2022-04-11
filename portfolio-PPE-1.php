@@ -58,7 +58,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>PPE-1 // ....</h2>
+          <h2>PPE-1 // Blog</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
             <li>PPE-1</li>
@@ -80,11 +80,11 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-2.jpg" alt="">
+                  <img src="assets/img/portfolio/portfolio-details-0.jpg" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-3.jpg" alt="">
+                  <img src="assets/img/portfolio/portfolio-details-1.jpg" alt="">
                 </div>
 
               </div>
@@ -96,17 +96,17 @@
             <div class="portfolio-info">
               <h3>Details du projet</h3>
               <ul>
-                <li><strong>Language</strong>: C#</li>
-                <li><strong>Statut</strong>: Achevé </li>
-                <li><strong>But</strong>: Créer un ticket </li>
-                <li><strong>Date du Projet</strong>: 02/12/2021</li>
-                <li><a href="assets/programmes/Ticket.zip" download="WinAppTicket" class="btn btn-success btn-sm">Télécharger le zip</a></li>
+                <li><strong>Language</strong>: PHP</li>
+                <li><strong>Statut</strong>: Inachevé </li>
+                <li><strong>But</strong>: Créer une page de connection </li>
+                <li><strong>Date du Projet</strong>: 16/11/2021</li>
+                <li><a href="assets/programmes/PPE-1.zip" download="PPE-1" class="btn btn-success btn-sm">Télécharger le zip</a></li>
               </ul>
             </div>
             <div class="portfolio-description">
               <h2>A propos de ce projet</h2>
               <p>
-                Ce petit programme à pour but de créer et d'archiver des tickets utilisateurs, ébergés sur une base de données, et proteger par mot de passe.
+                Ce projet PHP avait pour but de nous faire créer un blog avec une page de connection utilisateur.
               </p>
             </div>
           </div>

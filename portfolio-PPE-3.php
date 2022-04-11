@@ -58,7 +58,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>PPE-3 // ....</h2>
+          <h2>PPE-3 // M2L</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
             <li>PPE-3</li>
@@ -96,17 +96,20 @@
             <div class="portfolio-info">
               <h3>Details du projet</h3>
               <ul>
-                <li><strong>Language</strong>: C#</li>
-                <li><strong>Statut</strong>: Achevé </li>
-                <li><strong>But</strong>: Créer un ticket </li>
-                <li><strong>Date du Projet</strong>: 02/12/2021</li>
-                <li><a href="assets/programmes/Ticket.zip" download="WinAppTicket" class="btn btn-success btn-sm">Télécharger le zip</a></li>
+                <li><strong>Language</strong>: PHP</li>
+                <li><strong>Statut</strong>: Inachevé </li>
+                <li><strong>But</strong>: Créer un site web </li>
+                <li><strong>Date du Projet</strong>: 31/01/2022</li>
+                <li><a href="xxx" download="M2L" class="btn btn-success btn-sm">Télécharger le zip</a></li>
               </ul>
             </div>
             <div class="portfolio-description">
               <h2>A propos de ce projet</h2>
               <p>
-                Ce petit programme à pour but de créer et d'archiver des tickets utilisateurs, ébergés sur une base de données, et proteger par mot de passe.
+                La ligue régionale de basket de Lorraine a émis le besoin de pouvoir alimenter les résultats de leur 
+                championnat régional au travers d’un site web qui leur permettrait ainsi d’afficher le classement des diverses 
+                équipes au fil des différentes journées et éventuellement mettre en place une série de statistiques sur les 
+                résultats.
               </p>
             </div>
           </div>
