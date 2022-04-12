@@ -118,77 +118,76 @@
 
           <div class="row skills-content">
 
-            <div class="col-lg-3" data-aos="fade-up">
+            <div class="col-lg-3 circle" data-aos="fade-up">
 
-            <div class="progress-circle " style="border-color: #F8E0E0;" data-value="30" language="HTML">
+              <div class="progress-circle " style="border-color: #F8E0E0;" data-value="30" language="HTML">
                 <div class="progress-masque">
-                    <div class="progress-barre" style="border-color: #e56666;"></div>
-                    <div class="progress-sup50" style="border-color: #e56666;"></div>
+                  <div class="progress-barre" style="border-color: #e56666;"></div>
+                  <div class="progress-sup50" style="border-color: #e56666;"></div>
                 </div>
               </div>
-
-              <div class="progress-circle " style="border-color: #d1f5cd;" data-value="30" language="Python">
+               <div class="progress-circle " style="border-color: #d1f5cd;" data-value="30" language="Python">
                 <div class="progress-masque">
-                    <div class="progress-barre" style="border-color: #68e566;"></div>
-                    <div class="progress-sup50" style="border-color: #68e566;"></div>
+                  <div class="progress-barre" style="border-color: #68e566;"></div>
+                  <div class="progress-sup50" style="border-color: #68e566;"></div>
                 </div>
               </div>
 
               <div class="progress-circle " style="border-color: #f5e6c5;" data-value="30" language="Blender">
                 <div class="progress-masque">
-                    <div class="progress-barre" style="border-color: #f6ac52;"></div>
-                    <div class="progress-sup50" style="border-color: #f6ac52;"></div>
+                  <div class="progress-barre" style="border-color: #f6ac52;"></div>
+                  <div class="progress-sup50" style="border-color: #f6ac52;"></div>
                 </div>
               </div>
 
             </div>
-            <div class="col-lg-3" data-aos="fade-up">
+            <div class="col-lg-3 circle" data-aos="fade-up">
             
-            <div class="progress-circle " data-value="20" language="CSS">
+              <div class="progress-circle "  data-value="20" language="CSS">
                 <div class="progress-masque">
-                    <div class="progress-barre" style="border-color: #6688e5;"></div>
-                    <div class="progress-sup50" style="border-color: #6688e5;"></div>
+                  <div class="progress-barre" style="border-color: #6688e5;"></div>
+                  <div class="progress-sup50" style="border-color: #6688e5;"></div>
                 </div>
               </div>
 
               <div class="progress-circle " style="border-color: #c5b9c6;" data-value="20" language="SQL">
                 <div class="progress-masque">
-                    <div class="progress-barre" style="border-color: #2a272a;"></div>
-                    <div class="progress-sup50" style="border-color: #2a272a;"></div>
+                  <div class="progress-barre" style="border-color: #2a272a;"></div>
+                  <div class="progress-sup50" style="border-color: #2a272a;"></div>
                 </div>
               </div>
 
             </div>
-            <div class="col-lg-3" data-aos="fade-up">
+            <div class="col-lg-3 circle" data-aos="fade-up">
 
-            <div class="progress-circle " style="border-color: #e0d1f0;" data-value="20" language="PHP">
+              <div class="progress-circle " style="border-color: #e0d1f0;" data-value="20" language="PHP">
                 <div class="progress-masque">
-                    <div class="progress-barre" style="border-color: #8a66e5;"></div>
-                    <div class="progress-sup50" style="border-color: #8a66e5;"></div>
+                  <div class="progress-barre" style="border-color: #8a66e5;"></div>
+                  <div class="progress-sup50" style="border-color: #8a66e5;"></div>
                 </div>
               </div>
 
               <div class="progress-circle " style="border-color: #eeebcb;" data-value="10" language="Javascript">
                 <div class="progress-masque">
-                    <div class="progress-barre" style="border-color: #ece444;"></div>
-                    <div class="progress-sup50" style="border-color: #ece444;"></div>
+                  <div class="progress-barre" style="border-color: #ece444;"></div>
+                  <div class="progress-sup50" style="border-color: #ece444;"></div>
                 </div>
               </div>
 
             </div>
-            <div class="col-lg-3" data-aos="fade-up">
+            <div class="col-lg-3 circle" data-aos="fade-up">
             
-            <div class="progress-circle " style="border-color: #f1e0f8;" data-value="10" language="C#">
+              <div class="progress-circle " style="border-color: #f1e0f8;" data-value="10" language="C#">
                 <div class="progress-masque">
-                    <div class="progress-barre" style="border-color: #c566e5;"></div>
-                    <div class="progress-sup50" style="border-color: #c566e5;"></div>
+                  <div class="progress-barre" style="border-color: #c566e5;"></div>
+                  <div class="progress-sup50" style="border-color: #c566e5;"></div>
                 </div>
               </div>
 
               <div class="progress-circle " style="border-color: #f6d1be;" data-value="10" language="Postman">
                 <div class="progress-masque">
-                    <div class="progress-barre" style="border-color: #eb7d46;"></div>
-                    <div class="progress-sup50" style="border-color: #eb7d46;"></div>
+                  <div class="progress-barre" style="border-color: #eb7d46;"></div>
+                  <div class="progress-sup50" style="border-color: #eb7d46;"></div>
                 </div>
               </div>
 

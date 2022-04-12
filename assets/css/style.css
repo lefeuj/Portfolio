@@ -351,6 +351,10 @@ section {
   transition: 0.9s;
   background-color: #149ddd;
 }
+.circle{
+  margin-left: -3.5em; 
+  margin-right: -3.5em;
+}
 .progress-circle{
   position: relative;        
   box-sizing: border-box;   
@@ -360,6 +364,8 @@ section {
   border-radius: 50%;       
   border: .15em solid #CDE;
   background-color: #FFF; 
+  margin-top: 0.5em; 
+  margin-bottom: 0.5em;
 }
 .progress-masque {
   position: absolute;
