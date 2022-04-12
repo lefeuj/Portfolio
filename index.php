@@ -98,7 +98,8 @@
                   </ul>
                 </div>
               </div>
-              <a href="./assets/img/CV.pdf" class="btn btn-primary btn-sm" target="_blank" tabindex="-1" role="button" aria-disabled="true">CV complet</a>
+              <a href="./assets/img/CV.pdf" class="btn btn-primary btn-sm" target="_blank" tabindex="-1" role="button" aria-disabled="true"> Visualiser le CV </a>
+              <a href="./assets/img/CV.pdf" download="CV Créteur Nicolas" class="btn btn-warning btn-sm">Télécharger le CV</a>
             </div>
           </div>
 
@@ -117,72 +118,77 @@
 
           <div class="row skills-content">
 
-            <div class="col-lg-6" data-aos="fade-up">
+            <div class="col-lg-3" data-aos="fade-up">
 
-              <div class="progress">
-                <span class="skill">php <i class="val">Intermediaire</i></span>
-                <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
+            <div class="progress-circle " style="border-color: #F8E0E0;" data-value="30" language="HTML">
+                <div class="progress-masque">
+                    <div class="progress-barre" style="border-color: #e56666;"></div>
+                    <div class="progress-sup50" style="border-color: #e56666;"></div>
                 </div>
               </div>
 
-              <div class="progress">
-                <span class="skill">Python <i class="val">Intermediaire</i></span>
-                <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-circle " style="border-color: #d1f5cd;" data-value="30" language="Python">
+                <div class="progress-masque">
+                    <div class="progress-barre" style="border-color: #68e566;"></div>
+                    <div class="progress-sup50" style="border-color: #68e566;"></div>
                 </div>
               </div>
 
-              <div class="progress">
-                <span class="skill">Blender <i class="val">Intermediaire</i></span>
-                <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-              </div>
-
-              <div class="progress">
-                <span class="skill">CSS <i class="val">Débutant</i></span>
-                <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-              </div>
-
-              <div class="progress">
-                <span class="skill">SQL Serveur / MySQL <i class="val">Débutant</i></span>
-                <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-circle " style="border-color: #f5e6c5;" data-value="30" language="Blender">
+                <div class="progress-masque">
+                    <div class="progress-barre" style="border-color: #f6ac52;"></div>
+                    <div class="progress-sup50" style="border-color: #f6ac52;"></div>
                 </div>
               </div>
 
             </div>
-
-            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-
-              <div class="progress">
-                <span class="skill">PHP <i class="val">Débutant</i></span>
-                <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+            <div class="col-lg-3" data-aos="fade-up">
+            
+            <div class="progress-circle " data-value="20" language="CSS">
+                <div class="progress-masque">
+                    <div class="progress-barre" style="border-color: #6688e5;"></div>
+                    <div class="progress-sup50" style="border-color: #6688e5;"></div>
                 </div>
               </div>
 
-              <div class="progress">
-                <span class="skill">Javascript <i class="val">Novice</i></span>
-                <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-circle " style="border-color: #c5b9c6;" data-value="20" language="SQL">
+                <div class="progress-masque">
+                    <div class="progress-barre" style="border-color: #2a272a;"></div>
+                    <div class="progress-sup50" style="border-color: #2a272a;"></div>
                 </div>
               </div>
 
-              <div class="progress">
-                <span class="skill">C# <i class="val">Novice</i></span>
-                <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+            <div class="col-lg-3" data-aos="fade-up">
+
+            <div class="progress-circle " style="border-color: #e0d1f0;" data-value="20" language="PHP">
+                <div class="progress-masque">
+                    <div class="progress-barre" style="border-color: #8a66e5;"></div>
+                    <div class="progress-sup50" style="border-color: #8a66e5;"></div>
                 </div>
               </div>
 
-              <div class="progress">
-                <span class="skill">Postman <i class="val">Novice</i></span>
-                <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-circle " style="border-color: #eeebcb;" data-value="10" language="Javascript">
+                <div class="progress-masque">
+                    <div class="progress-barre" style="border-color: #ece444;"></div>
+                    <div class="progress-sup50" style="border-color: #ece444;"></div>
+                </div>
+              </div>
+
+            </div>
+            <div class="col-lg-3" data-aos="fade-up">
+            
+            <div class="progress-circle " style="border-color: #f1e0f8;" data-value="10" language="C#">
+                <div class="progress-masque">
+                    <div class="progress-barre" style="border-color: #c566e5;"></div>
+                    <div class="progress-sup50" style="border-color: #c566e5;"></div>
+                </div>
+              </div>
+
+              <div class="progress-circle " style="border-color: #f6d1be;" data-value="10" language="Postman">
+                <div class="progress-masque">
+                    <div class="progress-barre" style="border-color: #eb7d46;"></div>
+                    <div class="progress-sup50" style="border-color: #eb7d46;"></div>
                 </div>
               </div>
 
