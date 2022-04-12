@@ -113,7 +113,7 @@
 
           <div class="section-title">
             <h2>Compétences</h2>
-            <p>Progression personnel, language, et logiciel :</p>
+            <p>Progression personnel, language, et logiciel :</p> 
           </div>
 
           <div class="row skills-content">
