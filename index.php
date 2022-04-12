@@ -116,7 +116,7 @@
             <p> Proportion d'utilisation des languages et scripts sur mes deux années :</p> 
           </div>
 
-          <div class="row skills-content">
+          <div class="row skills-content" style="margin-left:3em">
 
             <div class="col-lg-3 circle" data-aos="fade-up">
 
@@ -183,7 +183,7 @@
 
           <p> Proportion d'utilisation des IDE sur mes deux années :</p> 
 
-          <div class="row skills-content">
+          <div class="row skills-content" style="margin-left:3em">
 
             <div class="col-lg-3 circle" data-aos="fade-up">
 
