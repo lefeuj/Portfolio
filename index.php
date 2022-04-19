@@ -53,7 +53,7 @@
             <li><a href="#Tableau" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Tableau de Synthèse</span></a></li>
             <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-folder-open"></i> <span>Portfolio</span></a></li>
             <li><a href="#Juridique" class="nav-link scrollto"><i class="bx bx-task"></i> <span>Veille Juridique </span></a></li>
-            <li><a href="#Techonologique" class="nav-link scrollto"><i class="bx bx bx-task"></i> <span> Veille Techonologique</span></a></li>
+            <li><a href="#Technologique" class="nav-link scrollto"><i class="bx bx bx-task"></i> <span> Veille Technologique</span></a></li>
           </ul>
         </nav><!-- .nav-menu -->
       </div>
@@ -69,6 +69,7 @@
     </section>
     <!-- End Hero -->
 
+    <!-- ======= Main Section ======= -->
     <main id="main">
 
       <!-- ======= About Section ======= -->
@@ -381,8 +382,8 @@
       </section>
       <!-- End veille Section -->
 
-      <!-- ======= Techonologique Section ======= -->
-      <section id="Techonologique" class="about">
+      <!-- ======= Technologique Section ======= -->
+      <section id="Technologique" class="about">
         <div class="container">
           <div class="section-title">
             <h2>Veille Techonologique</h2>
