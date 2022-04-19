@@ -47,7 +47,7 @@
 
         <nav id="navbar" class="nav-menu navbar">
           <ul>
-            <li><a href="index.php" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Accueil</span></a></li>
+            <li><a href="index.php" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Accueil </span></a></li>
             <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>À propos</span></a></li>
             <li><a href="#skills" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Compétences</span></a></li>
             <li><a href="#Tableau" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Tableau de Synthèse</span></a></li>
