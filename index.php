@@ -49,11 +49,16 @@
           <ul>
             <li><a href="index.php" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Accueil</span></a></li>
             <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>À propos</span></a></li>
-            <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-task"></i> <span>Portfolio</span></a></li>
+            <li><a href="#skills" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Compétences</span></a></li>
+            <li><a href="#Tableau" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Tableau de Synthèse</span></a></li>
+            <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-folder-open"></i> <span>Portfolio</span></a></li>
+            <li><a href="#Juridique" class="nav-link scrollto"><i class="bx bx-task"></i> <span>Veille Juridique </span></a></li>
+            <li><a href="#Techonologique" class="nav-link scrollto"><i class="bx bx bx-task"></i> <span> Veille Techonologique</span></a></li>
           </ul>
         </nav><!-- .nav-menu -->
       </div>
-    </header><!-- End Header -->
+    </header>
+    <!-- End Header -->
 
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
@@ -61,7 +66,8 @@
         <h1>Créteur Nicolas</h1>
         <p><span class="typed" data-typed-items="Développeur, Architecte, Paysagiste"></span></p>
       </div>
-    </section><!-- End Hero -->
+    </section>
+    <!-- End Hero -->
 
     <main id="main">
 
@@ -78,7 +84,7 @@
               <img src="assets/img/profile-img1.jpg" class="img-fluid" alt="">
             </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-              <h3>Developer Junior.</h3>
+              <h3> Developer Junior </h3>
               <p class="fst-italic">
               </p>
               <div class="row">
@@ -98,13 +104,16 @@
                   </ul>
                 </div>
               </div>
+              Cliquez pour
               <a href="./assets/img/CV.pdf" class="btn btn-primary btn-sm" target="_blank" tabindex="-1" role="button" aria-disabled="true"> Visualiser le CV </a>
+              ou
               <a href="./assets/img/CV.pdf" download="CV Créteur Nicolas" class="btn btn-warning btn-sm">Télécharger le CV</a>
             </div>
           </div>
 
         </div>
-      </section><!-- End About Section -->
+      </section>
+      <!-- End About Section -->
 
       
       <!-- ======= Skills Section ======= -->
@@ -113,7 +122,7 @@
 
           <div class="section-title">
             <h2>Compétences</h2>
-            <p> Proportion d'utilisation des languages et scripts sur mes deux années :</p> 
+            <p> Proportion d'utilisation des languages et scripts utilisés sur mes deux années :</p> 
           </div>
 
           <div class="row skills-content" style="margin-left:3em">
@@ -198,7 +207,7 @@
 
             <div class="col-lg-3 circle" data-aos="fade-up">
 
-              <div class="progress-circle "  data-value="62.3" language="VS.code">
+              <div class="progress-circle " data-value="62.3" language="VS.code">
                 <div class="progress-masque">
                   <div class="progress-barre"></div>
                   <div class="progress-sup50"></div>
@@ -232,15 +241,30 @@
           </div>
 
         </div>
-      </section><!-- End Skills Section -->
+      </section>
+      <!-- End Skills Section -->
+
+      <!-- ======= Synthèse Section ======= -->
+      <section id="Tableau" class="about">
+        <div class="container">
+          <div class="section-title">
+            <h2>Tableau de Synthèse</h2>
+          </div>
+          <embed src="./assets/img/Tableau de synthese.pdf" width="90%" height="500" type="application/pdf">
+          </br></br>
+        </div>
+      </section>
+      <!-- End Synthèse Section -->
 
       <!-- ======= Portfolio Section ======= -->
-      <section id="portfolio" class="portfolio section-bg">
+      <section id="portfolio" class="portfolio ">
         <div class="container">
 
           <div class="section-title">
             <h2>Portfolio</h2>
-            <p>Ici vous trouverez tous mes projets réaliser au cours de mes deux années d'études</p>
+            <p>Ci-dessou vous trouverez tous mes projets réaliser au cours de mes deux années d'études</p>
+            </br>
+            <p>Cliquez sur les projets pour plus d'informations</p>
           </div>
 
           <div class="row" data-aos="fade-up">
@@ -256,152 +280,146 @@
 
           <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-PPE">
-              <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/ppe-1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/ppe-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-1"><i class="bx bx-search-alt-2"></i></a>
-                  <a href="portfolio-PPE-1.php" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
+            <a href="portfolio-PPE-1.php" class="col-lg-4 col-md-6 portfolio-item filter-PPE folio btn btn-primary" title="More Details">
+              <img src="assets/img/portfolio/ppe-1.jpg" class="img-fluid" alt="PPE-1">
+            </a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-PPE">
-              <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/ppe-2.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/ppe-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-2"><i class="bx bx-search-alt-2"></i></a>
-                  <a href="portfolio-PPE-2.php" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
+            <a href="portfolio-PPE-2.php" class="col-lg-4 col-md-6 portfolio-item filter-PPE folio btn btn-primary" title="More Details">
+              <img src="assets/img/portfolio/ppe-2.jpg" class="img-fluid" alt="PPE-1">
+            </a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-PPE">
-              <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/ppe-3.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/ppe-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-3"><i class="bx bx-search-alt-2"></i></a>
-                  <a href="portfolio-PPE-3.php" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
+            <a href="portfolio-PPE-3.php" class="col-lg-4 col-md-6 portfolio-item filter-PPE folio btn btn-primary" title="More Details">
+              <img src="assets/img/portfolio/ppe-3.jpg" class="img-fluid" alt="PPE-1">
+            </a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-PPE">
-              <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/ppe-4.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/ppe-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE-4"><i class="bx bx-search-alt-2"></i></a>
-                  <a href="portfolio-PPE-4.php" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
+            <a href="portfolio-PPE-4.php" class="col-lg-4 col-md-6 portfolio-item filter-PPE folio btn btn-primary" title="More Details">
+              <img src="assets/img/portfolio/ppe-4.jpg" class="img-fluid" alt="PPE-1">
+            </a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-PE">
-              <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-details-10.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-10.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Palindrome"><i class="bx bx-search-alt-2"></i></a>
-                  <a href="portfolio-PE-1.php" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
+            <a href="portfolio-PE-1.php" class="col-lg-4 col-md-6 portfolio-item filter-PE folio btn btn-success" title="More Details">
+              <img src="assets/img/portfolio/portfolio-details-10.jpg" class="img-fluid" alt="PPE-1">
+            </a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-PE">
-              <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-details-12.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-12.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Recherche Dicotomique"><i class="bx bx-search-alt-2"></i></a>
-                  <a href="portfolio-PE-2.php" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
+            <a href="portfolio-PE-2.php" class="col-lg-4 col-md-6 portfolio-item filter-PE folio btn btn-success" title="More Details">
+              <img src="assets/img/portfolio/portfolio-details-12.jpg" class="img-fluid" alt="PPE-1">
+            </a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-PE">
-              <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-details-14.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-14.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Manipulation de liste"><i class="bx bx-search-alt-2"></i></a>
-                  <a href="portfolio-PE-3.php" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
+            <a href="portfolio-PE-3.php" class="col-lg-4 col-md-6 portfolio-item filter-PE folio btn btn-success" title="More Details">
+              <img src="assets/img/portfolio/portfolio-details-14.jpg" class="img-fluid" alt="PPE-1">
+            </a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-PE">
-              <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-details-16.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-16.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Convertion octet"><i class="bx bx-search-alt-2"></i></a>
-                  <a href="portfolio-PE-4.php" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
+            <a href="portfolio-PE-4.php" class="col-lg-4 col-md-6 portfolio-item filter-PE folio btn btn-success" title="More Details">
+              <img src="assets/img/portfolio/portfolio-details-16.jpg" class="img-fluid" alt="PPE-1">
+            </a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-PE">
-              <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-details-20.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-20.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Convertion octet"><i class="bx bx-search-alt-2"></i></a>
-                  <a href="portfolio-PE-5.php" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
+            <a href="portfolio-PE-5.php" class="col-lg-4 col-md-6 portfolio-item filter-PE folio btn btn-success" title="More Details">
+              <img src="assets/img/portfolio/portfolio-details-20.jpg" class="img-fluid" alt="PPE-1">
+            </a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-PP">
-              <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-details-4.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Le juste prix"><i class="bx bx-search-alt-2"></i></a>
-                  <a href="portfolio-PP-1.php" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
+            <a href="portfolio-PP-1.php" class="col-lg-4 col-md-6 portfolio-item filter-PP folio btn btn-warning" title="More Details">
+              <img src="assets/img/portfolio/portfolio-details-4.jpg" class="img-fluid" alt="PPE-1">
+            </a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-PP">
-              <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-details-7.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Test Mail / MAC / IP"><i class="bx bx-search-alt-2"></i></a>
-                  <a href="portfolio-PP-2.php" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
+            <a href="portfolio-PP-2.php" class="col-lg-4 col-md-6 portfolio-item filter-PP folio btn btn-warning" title="More Details">
+              <img src="assets/img/portfolio/portfolio-details-7.jpg" class="img-fluid" alt="PPE-1">
+            </a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-PP">
-              <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-details-17.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-17.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Jeu du pendu"><i class="bx bx-search-alt-2"></i></a>
-                  <a href="portfolio-PP-3.php" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
+            <a href="portfolio-PP-3.php" class="col-lg-4 col-md-6 portfolio-item filter-PP folio btn btn-warning" title="More Details">
+              <img src="assets/img/portfolio/portfolio-details-17.jpg" class="img-fluid" alt="PPE-1">
+            </a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-PP">
-              <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-details-21.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-21.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Python turtle "><i class="bx bx-search-alt-2"></i></a>
-                  <a href="portfolio-PP-4.php" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
+            <a href="portfolio-PP-4.php" class="col-lg-4 col-md-6 portfolio-item filter-PP folio btn btn-warning" title="More Details">
+              <img src="assets/img/portfolio/portfolio-details-21.jpg" class="img-fluid" alt="PPE-1">
+            </a>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-PP">
-              <div class="portfolio-wrap">
-                <img src="assets/img/portfolio/portfolio-details-26.jpg" class="img-fluid" alt="">
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-26.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Projets Blender "><i class="bx bx-search-alt-2"></i></a>
-                  <a href="portfolio-PP-5.php" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
+            <a href="portfolio-PP-5.php" class="col-lg-4 col-md-6 portfolio-item filter-PP folio btn btn-warning" title="More Details">
+              <img src="assets/img/portfolio/portfolio-details-26.jpg" class="img-fluid" alt="PPE-1">
+            </a>
 
           </div>
 
         </div>
-      </section><!-- End Portfolio Section -->
+      </section>
+      <!-- End Portfolio Section -->
 
-    </main><!-- End #main -->
+      <!-- ======= Juridique Section ======= -->
+      <section id="Juridique" class="about">
+        <div class="container">
+          <div class="section-title">
+            <h2>Veille Juridique</h2>
+          </div>
+
+          <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-google-analytics-juge-illegal-les-entreprises-dans-l-impasse-86193.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-warning" title="More Details">
+              <img src="assets/img/analitic.jpg" style="height:auto" class="img-fluid" alt="analitic">
+            </a>
+
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-le-rgpd-etend-sa-portee-geographique-hors-de-la-ce-85671.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-primary" title="More Details">
+              <img src="assets/img/portee.jpg" class="img-fluid" alt="portee">
+            </a>
+
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-faire-de-la-conformite-au-rgpd-autre-chose-que-de-la-paperasse-84324.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-danger" title="More Details">
+              <img src="assets/img/paperasse.jpg" class="img-fluid" alt="paperasse">
+            </a>
+
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-rgpd-un-destin-pas-si-facile-a-prendre-en-main-83192.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-info" title="More Details">
+              <img src="assets/img/destin.jpg" class="img-fluid" alt="destin">
+            </a>
+
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-un-partisan-du-rgpd-plaide-pour-une-evolution-du-texte-82180.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-dark" title="More Details">
+              <img src="assets/img/euro.jpg" class="img-fluid" alt="euro">
+            </a>
+
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-bond-de-39-des-montants-des-amendes-rgpd-en-europe-sur-2020-81730.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-success" title="More Details">
+              <img src="assets/img/rgpd.jpg" class="img-fluid" alt="rgpd">
+            </a>
+
+          </div>
+
+        </div>
+      </section>
+      <!-- End veille Section -->
+
+      <!-- ======= Techonologique Section ======= -->
+      <section id="Techonologique" class="about">
+        <div class="container">
+          <div class="section-title">
+            <h2>Veille Techonologique</h2>
+          </div>
+          <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-google-analytics-juge-illegal-les-entreprises-dans-l-impasse-86193.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-warning" title="More Details">
+              <img src="assets/img/analitic.jpg" style="height:auto" class="img-fluid" alt="analitic">
+            </a>
+
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-le-rgpd-etend-sa-portee-geographique-hors-de-la-ce-85671.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-primary" title="More Details">
+              <img src="assets/img/portee.jpg" class="img-fluid" alt="portee">
+            </a>
+
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-faire-de-la-conformite-au-rgpd-autre-chose-que-de-la-paperasse-84324.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-danger" title="More Details">
+              <img src="assets/img/paperasse.jpg" class="img-fluid" alt="paperasse">
+            </a>
+
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-rgpd-un-destin-pas-si-facile-a-prendre-en-main-83192.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-info" title="More Details">
+              <img src="assets/img/destin.jpg" class="img-fluid" alt="destin">
+            </a>
+
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-un-partisan-du-rgpd-plaide-pour-une-evolution-du-texte-82180.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-dark" title="More Details">
+              <img src="assets/img/euro.jpg" class="img-fluid" alt="euro">
+            </a>
+
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-bond-de-39-des-montants-des-amendes-rgpd-en-europe-sur-2020-81730.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-success" title="More Details">
+              <img src="assets/img/rgpd.jpg" class="img-fluid" alt="rgpd">
+            </a>
+
+          </div>
+        </div>
+      </section>
+      <!-- End veille Section -->
+
+    </main>
+    <!-- End #main -->
 
     <!-- ======= Footer ======= -->
     <footer id="footer">
@@ -413,7 +431,8 @@
           <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
         </div>
       </div>
-    </footer><!-- End  Footer -->
+    </footer>
+    <!-- End  Footer -->
 
     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 

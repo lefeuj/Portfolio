@@ -290,6 +290,14 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Veille Juridique et Technologique
+--------------------------------------------------------------*/
+.about .veille {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+/*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
 .about .content h3 {
@@ -1626,6 +1634,9 @@ section {
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
   margin-bottom: 30px;
+}
+.portfolio .folio {
+  height: 230px;
 }
 .portfolio #portfolio-flters {
   padding: 0;
