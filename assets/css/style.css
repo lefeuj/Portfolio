@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, h6 {
 .spinner:after{
   content: "";
   position: absolute;
-  border-radius: inherit;
+  border-radius: inherit ;
 }
 .spinner:before{
   width: 100%;
