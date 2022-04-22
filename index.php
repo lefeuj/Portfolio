@@ -41,6 +41,10 @@
     <header id="header">
       <div class="d-flex flex-column">
 
+        <div class="spinner">
+
+        </div>
+
         <div class="profile">
           <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
           <h1 class="text-light"><a href="index.php">Nicolas Créteur</a></h1>
