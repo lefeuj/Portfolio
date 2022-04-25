@@ -272,37 +272,34 @@
 
           <div class="section-title">
             <h2>Portfolio</h2>
-            <p>Ci-dessou vous trouverez tous mes projets réaliser au cours de mes deux années d'études</p>
-            </br>
-            <p>Cliquez sur les projets pour plus d'informations</p>
           </div>
 
           <div class="row" data-aos="fade-up">
             <div class="col-lg-12 d-flex justify-content-center">
               <ul id="portfolio-flters">
-                <li data-filter="*" class="filter-active">Tout les Projets</li>
-                <li data-filter=".filter-PPE">PPE</li>
-                <li data-filter=".filter-PE">Projets Encadrés</li>
-                <li data-filter=".filter-PP">Projets Personnel</li>
+                <li data-filter="*" class="filter-active button">Tout les Projets</li>
+                <li data-filter=".filter-PPE" class="button">PPE</li>
+                <li data-filter=".filter-PE" class="button">Projets Encadrés</li>
+                <li data-filter=".filter-PP" class="button">Projets Personnel</li>
               </ul>
             </div>
           </div>
 
           <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
 
-            <a href="portfolio-PPE-1.php" class="button col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="More Details">
+            <a href="portfolio-PPE-1.php" class="button ppe col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="More Details">
               <img src="assets/img/portfolio/ppe-1.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PPE-2.php" class="button col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="More Details">
+            <a href="portfolio-PPE-2.php" class="button ppe col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="More Details">
               <img src="assets/img/portfolio/ppe-2.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PPE-3.php" class="button col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="More Details">
+            <a href="portfolio-PPE-3.php" class="button ppe col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="More Details">
               <img src="assets/img/portfolio/ppe-3.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PPE-4.php" class="button col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="More Details">
+            <a href="portfolio-PPE-4.php" class="button ppe col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="More Details">
               <img src="assets/img/portfolio/ppe-4.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
