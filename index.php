@@ -290,59 +290,59 @@
 
           <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
 
-            <a href="portfolio-PPE-1.php" class="col-lg-4 col-md-6 portfolio-item filter-PPE folio btn btn-primary" title="More Details">
+            <a href="portfolio-PPE-1.php" class="button col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="More Details">
               <img src="assets/img/portfolio/ppe-1.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PPE-2.php" class="col-lg-4 col-md-6 portfolio-item filter-PPE folio btn btn-primary" title="More Details">
+            <a href="portfolio-PPE-2.php" class="button col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="More Details">
               <img src="assets/img/portfolio/ppe-2.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PPE-3.php" class="col-lg-4 col-md-6 portfolio-item filter-PPE folio btn btn-primary" title="More Details">
+            <a href="portfolio-PPE-3.php" class="button col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="More Details">
               <img src="assets/img/portfolio/ppe-3.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PPE-4.php" class="col-lg-4 col-md-6 portfolio-item filter-PPE folio btn btn-primary" title="More Details">
+            <a href="portfolio-PPE-4.php" class="button col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="More Details">
               <img src="assets/img/portfolio/ppe-4.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PE-1.php" class="col-lg-4 col-md-6 portfolio-item filter-PE folio btn btn-success" title="More Details">
+            <a href="portfolio-PE-1.php" class="button col-lg-4 col-md-6 portfolio-item filter-PE folio" title="More Details">
               <img src="assets/img/portfolio/portfolio-details-10.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PE-2.php" class="col-lg-4 col-md-6 portfolio-item filter-PE folio btn btn-success" title="More Details">
+            <a href="portfolio-PE-2.php" class="button col-lg-4 col-md-6 portfolio-item filter-PE folio" title="More Details">
               <img src="assets/img/portfolio/portfolio-details-12.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PE-3.php" class="col-lg-4 col-md-6 portfolio-item filter-PE folio btn btn-success" title="More Details">
+            <a href="portfolio-PE-3.php" class="button col-lg-4 col-md-6 portfolio-item filter-PE folio" title="More Details">
               <img src="assets/img/portfolio/portfolio-details-14.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PE-4.php" class="col-lg-4 col-md-6 portfolio-item filter-PE folio btn btn-success" title="More Details">
+            <a href="portfolio-PE-4.php" class="button col-lg-4 col-md-6 portfolio-item filter-PE folio" title="More Details">
               <img src="assets/img/portfolio/portfolio-details-16.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PE-5.php" class="col-lg-4 col-md-6 portfolio-item filter-PE folio btn btn-success" title="More Details">
+            <a href="portfolio-PE-5.php" class="button col-lg-4 col-md-6 portfolio-item filter-PE folio" title="More Details">
               <img src="assets/img/portfolio/portfolio-details-20.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PP-1.php" class="col-lg-4 col-md-6 portfolio-item filter-PP folio btn btn-warning" title="More Details">
+            <a href="portfolio-PP-1.php" class="button col-lg-4 col-md-6 portfolio-item filter-PP folio" title="More Details">
               <img src="assets/img/portfolio/portfolio-details-4.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PP-2.php" class="col-lg-4 col-md-6 portfolio-item filter-PP folio btn btn-warning" title="More Details">
+            <a href="portfolio-PP-2.php" class="button col-lg-4 col-md-6 portfolio-item filter-PP folio" title="More Details">
               <img src="assets/img/portfolio/portfolio-details-7.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PP-3.php" class="col-lg-4 col-md-6 portfolio-item filter-PP folio btn btn-warning" title="More Details">
+            <a href="portfolio-PP-3.php" class="button col-lg-4 col-md-6 portfolio-item filter-PP folio" title="More Details">
               <img src="assets/img/portfolio/portfolio-details-17.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PP-4.php" class="col-lg-4 col-md-6 portfolio-item filter-PP folio btn btn-warning" title="More Details">
+            <a href="portfolio-PP-4.php" class="button col-lg-4 col-md-6 portfolio-item filter-PP folio" title="More Details">
               <img src="assets/img/portfolio/portfolio-details-21.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PP-5.php" class="col-lg-4 col-md-6 portfolio-item filter-PP folio btn btn-warning" title="More Details">
+            <a href="portfolio-PP-5.php" class="button col-lg-4 col-md-6 portfolio-item filter-PP folio" title="More Details">
               <img src="assets/img/portfolio/portfolio-details-26.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
