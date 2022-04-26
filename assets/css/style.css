@@ -1,10 +1,3 @@
-/**
-* Template Name: iPortfolio - v3.7.0
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -378,6 +371,7 @@ section {
   width: 150%;
 }
 
+
 /*--------------------------------------------------------------
 # Skills
 --------------------------------------------------------------*/
@@ -558,18 +552,6 @@ section {
   }
 }
 
-.button4:hover{
-  animation: pulsate4 1s
-  ease-in-out;
-}
-@keyframes pulsate4{
-  0%{
-    box-shadow:
-    0 0 25px #0aeab6,
-    0 0 50px #0698ed;
-  }
-}
-
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
@@ -676,16 +658,7 @@ section {
   bottom: 0;
   width: 300px;
   z-index: 9999;
-  background: #040b14;
-}
-#footer .copyright {
-  text-align: center;
-}
-#footer .credits {
-  padding-top: 5px;
-  text-align: center;
-  font-size: 13px;
-  color: #f5e6c5;
+  background: #051027;
 }
 @media (max-width: 1199px) {
   #footer {

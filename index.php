@@ -277,69 +277,69 @@
           <div class="row" data-aos="fade-up">
             <div class="col-lg-12 d-flex justify-content-center">
               <ul id="portfolio-flters">
-                <li data-filter="*" class="button button4 filter-active button">Tout les Projets</li>
-                <li data-filter=".filter-PPE" class="button">PPE</li>
-                <li data-filter=".filter-PE" class="button button2">Projets Encadrés</li>
-                <li data-filter=".filter-PP" class="button button3">Projets Personnel</li>
+                <li data-filter="*" class="btn btncv filter-active">Tout les Projets</li>
+                <li data-filter=".filter-PPE" class="btn btncv">PPE</li>
+                <li data-filter=".filter-PE" class="btn btncv">Projets Encadrés</li>
+                <li data-filter=".filter-PP" class="btn btncv">Projets Personnel</li>
               </ul>
             </div>
           </div>
 
           <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
 
-            <a href="portfolio-PPE-1.php" class="button ppe col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="More Details">
+            <a href="portfolio-PPE-1.php" class="button ppe col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="Blog">
               <img src="assets/img/portfolio/ppe-1.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PPE-2.php" class="button ppe col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="More Details">
+            <a href="portfolio-PPE-2.php" class="button ppe col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="WinAppTicket">
               <img src="assets/img/portfolio/ppe-2.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PPE-3.php" class="button ppe col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="More Details">
+            <a href="portfolio-PPE-3.php" class="button ppe col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="La Maison des Ligues">
               <img src="assets/img/portfolio/ppe-3.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PPE-4.php" class="button ppe col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="More Details">
+            <a href="portfolio-PPE-4.php" class="button ppe col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="GSBCR">
               <img src="assets/img/portfolio/ppe-4.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PE-1.php" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PE folio" title="More Details">
+            <a href="portfolio-PE-1.php" class="button col-lg-4 col-md-6 portfolio-item filter-PE folio" title="Palindrome">
               <img src="assets/img/portfolio/portfolio-details-10.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PE-2.php" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PE folio" title="More Details">
+            <a href="portfolio-PE-2.php" class="button col-lg-4 col-md-6 portfolio-item filter-PE folio" title="Recherche Dicotomique">
               <img src="assets/img/portfolio/portfolio-details-12.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PE-3.php" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PE folio" title="More Details">
+            <a href="portfolio-PE-3.php" class="button col-lg-4 col-md-6 portfolio-item filter-PE folio" title="Manipulation de liste">
               <img src="assets/img/portfolio/portfolio-details-14.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PE-4.php" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PE folio" title="More Details">
+            <a href="portfolio-PE-4.php" class="button col-lg-4 col-md-6 portfolio-item filter-PE folio" title="Conversion de bases">
               <img src="assets/img/portfolio/portfolio-details-16.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PE-5.php" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PE folio" title="More Details">
+            <a href="portfolio-PE-5.php" class="button col-lg-4 col-md-6 portfolio-item filter-PE folio" title="Curiculum-Vitae">
               <img src="assets/img/portfolio/portfolio-details-20.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PP-1.php" class="button button3 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="More Details">
+            <a href="portfolio-PP-1.php" class="button col-lg-4 col-md-6 portfolio-item filter-PP folio" title="Le Juste Prix">
               <img src="assets/img/portfolio/portfolio-details-4.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PP-2.php" class="button button3 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="More Details">
+            <a href="portfolio-PP-2.php" class="button col-lg-4 col-md-6 portfolio-item filter-PP folio" title="Test MAC / Mail / IP">
               <img src="assets/img/portfolio/portfolio-details-7.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PP-3.php" class="button button3 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="More Details">
+            <a href="portfolio-PP-3.php" class="button col-lg-4 col-md-6 portfolio-item filter-PP folio" title="Le jeu du pendu">
               <img src="assets/img/portfolio/portfolio-details-17.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PP-4.php" class="button button3 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="More Details">
+            <a href="portfolio-PP-4.php" class="button col-lg-4 col-md-6 portfolio-item filter-PP folio" title="Utilisation du module turtle">
               <img src="assets/img/portfolio/portfolio-details-21.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
-            <a href="portfolio-PP-5.php" class="button button3 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="More Details">
+            <a href="portfolio-PP-5.php" class="button col-lg-4 col-md-6 portfolio-item filter-PP folio" title="Projets 3D Blender">
               <img src="assets/img/portfolio/portfolio-details-26.jpg" class="img-fluid" alt="PPE-1">
             </a>
 
@@ -356,25 +356,32 @@
             <h2>Veille Informatique</h2>
           </div>
 
-          <h1 class="text-center mb-5"> Cybersécurité </h1>
-          <img src="assets/img/cybersecurity.jpg" alt="" class="cyber img-fluid mb-5">
+          <div data-aos="fade-up" class="aos-init aos-animate">
+            </br></br>
+            <ul>
+              <li class="fw-bolder"><i class="bx bx-comment"></i> à propos: </li>
+						</ul>
+            <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+
+            </div>
+					</div>
 
           <div data-aos="fade-up" class="aos-init aos-animate">
             </br></br>
             <ul>
-							<li><strong>Mes abonnements </strong></li>
+              <li class="fw-bolder"><i class="bx bxl-youtube"></i> Mes abonnements : Youtube</li>
 						</ul>
             <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
 
-              <a href="https://www.youtube.com/c/grafikart" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="More Details">
+              <a href="https://www.youtube.com/c/grafikart" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="grafikart">
                 <img src="assets/img/grafikart.jpg" class="img-fluid" alt="PPE-1">
               </a>
 
-              <a href="https://www.youtube.com/c/Sandozprod/featured" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="More Details">
+              <a href="https://www.youtube.com/c/Sandozprod/featured" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="sandoz">
                 <img src="assets/img/sandoz.jpg" class="img-fluid" alt="PPE-1">
               </a>
 
-              <a href="https://www.youtube.com/c/Micode-Enqu%C3%AAtes/featured" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="More Details">
+              <a href="https://www.youtube.com/c/Micode-Enqu%C3%AAtes/featured" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="micode">
                 <img src="assets/img/micode.jpg" class="img-fluid" alt="PPE-1">
               </a>
 
@@ -383,14 +390,46 @@
 
           <div data-aos="fade-up" class="aos-init aos-animate">
             </br></br>
-						<p>
-							</p><ul>
-								<li class="fw-bolder"><i class="bi bi-flower2"></i> Un nouveau logo</li>
-							</ul>
-							L'un des plus grands changements de la version 5 de Bootstrap a été la refonte du logo et la mise à jour du design de la documentation.
-							<br>
-							Les nouveaux documents sont plus clairs, mieux organisés avec de nouvelles sections de contenu, et la navigation est également améliorée.
-						<p></p>
+            <ul>
+              <li class="fw-bolder"><i class="bx bxl-instagram-alt"></i> Mes abonnements  : Instagram</li>
+						</ul>
+            <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+
+              <a href="https://www.instagram.com/believemyfr/" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="believemyfr">
+                <img src="assets/img/believemy.jpg" class="img-fluid" alt="PPE-1">
+              </a>
+
+              <a href="https://www.instagram.com/juliocodes/" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="juliocode">
+                <img src="assets/img/julio.jpg" class="img-fluid" alt="PPE-1">
+              </a>
+
+              <a href="https://www.instagram.com/python.curiosities/" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="python.curiosities">
+                <img src="assets/img/pc.jpg" class="img-fluid" alt="PPE-1">
+              </a>
+
+            </div>
+					</div>
+
+          <div data-aos="fade-up" class="aos-init aos-animate">
+            </br></br>
+            <ul>
+              <li class="fw-bolder"><i class="bx bxl-chrome"></i> Mes abonnements  : Internet</li>
+						</ul>
+            <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+
+              <a href="https://www.lafermeduweb.net/" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="lafermeduweb">
+                <img src="assets/img/ferme.jpg" class="img-fluid" alt="PPE-1">
+              </a>
+
+              <a href="https://www.nextinpact.com/" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="nextinpact">
+                <img src="assets/img/next.jpg" class="img-fluid" alt="PPE-1">
+              </a>
+
+              <a href="https://stackoverflow.com/" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="StackOverflow">
+                <img src="assets/img/stack.jpg" class="img-fluid" alt="PPE-1">
+              </a>
+
+            </div>
 					</div>
 
         </div>
@@ -405,27 +444,27 @@
           </div>
           <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
 
-            <a href="https://www.lemondeinformatique.fr/actualites/lire-google-analytics-juge-illegal-les-entreprises-dans-l-impasse-86193.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-warning" title="More Details">
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-google-analytics-juge-illegal-les-entreprises-dans-l-impasse-86193.html" target="_blank" class="col-lg-4 col-md-6 button button3" title="Google Analytics jugé illegal">
               <img src="assets/img/analitic.jpg" style="height:auto" class="img-fluid" alt="analitic">
             </a>
 
-            <a href="https://www.lemondeinformatique.fr/actualites/lire-le-rgpd-etend-sa-portee-geographique-hors-de-la-ce-85671.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-primary" title="More Details">
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-le-rgpd-etend-sa-portee-geographique-hors-de-la-ce-85671.html" target="_blank" class="col-lg-4 col-md-6 button button3" title="le RGPD étend sa portee geographique">
               <img src="assets/img/portee.jpg" class="img-fluid" alt="portee">
             </a>
 
-            <a href="https://www.lemondeinformatique.fr/actualites/lire-faire-de-la-conformite-au-rgpd-autre-chose-que-de-la-paperasse-84324.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-danger" title="More Details">
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-faire-de-la-conformite-au-rgpd-autre-chose-que-de-la-paperasse-84324.html" target="_blank" class="col-lg-4 col-md-6 button button3" title="Conseil RGPD">
               <img src="assets/img/paperasse.jpg" class="img-fluid" alt="paperasse">
             </a>
 
-            <a href="https://www.lemondeinformatique.fr/actualites/lire-rgpd-un-destin-pas-si-facile-a-prendre-en-main-83192.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-info" title="More Details">
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-rgpd-un-destin-pas-si-facile-a-prendre-en-main-83192.html" target="_blank" class="col-lg-4 col-md-6  button button3" title="Destin du RGPD">
               <img src="assets/img/destin.jpg" class="img-fluid" alt="destin">
             </a>
 
-            <a href="https://www.lemondeinformatique.fr/actualites/lire-un-partisan-du-rgpd-plaide-pour-une-evolution-du-texte-82180.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-dark" title="More Details">
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-un-partisan-du-rgpd-plaide-pour-une-evolution-du-texte-82180.html" target="_blank" class="col-lg-4 col-md-6 button button3" title="Un député européen veut faire évoluer le RGPD">
               <img src="assets/img/euro.jpg" class="img-fluid" alt="euro">
             </a>
 
-            <a href="https://www.lemondeinformatique.fr/actualites/lire-bond-de-39-des-montants-des-amendes-rgpd-en-europe-sur-2020-81730.html" target="_blank" class="col-lg-4 col-md-6 veille btn btn-success" title="More Details">
+            <a href="https://www.lemondeinformatique.fr/actualites/lire-bond-de-39-des-montants-des-amendes-rgpd-en-europe-sur-2020-81730.html" target="_blank" class="col-lg-4 col-md-6 button button3" title="hausse des des amendes rgpd">
               <img src="assets/img/rgpd.jpg" class="img-fluid" alt="rgpd">
             </a>
 
@@ -439,14 +478,6 @@
 
     <!-- ======= Footer ======= -->
     <footer id="footer">
-      <div class="container">
-        <div class="credits">
-          <!-- All the links in the footer should remain intact. -->
-          <!-- You can delete the links only if you purchased the pro version. -->
-          <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
-        </div>
-      </div>
     </footer>
     <!-- End  Footer -->
 
