@@ -110,10 +110,10 @@
                   </ul>
                 </div>
               </div>
-              Cliquez pour
-              <a href="./assets/img/CV.pdf" class="btn btn-primary btn-sm" target="_blank" tabindex="-1" role="button" aria-disabled="true"> Visualiser le CV </a>
-              ou
-              <a href="./assets/img/CV.pdf" download="CV Créteur Nicolas" class="btn btn-warning btn-sm">Télécharger le CV</a>
+
+              <a href="./assets/img/CV.pdf" class="btn btncv" target="_blank" tabindex="-1" role="button" aria-disabled="true"> Visualiser le CV </a>
+              <a href="./assets/img/CV.pdf" download="CV Créteur Nicolas" class="btn btncv">Télécharger le CV</a>
+
             </div>
           </div>
 
@@ -360,17 +360,37 @@
           <img src="assets/img/cybersecurity.jpg" alt="" class="cyber img-fluid mb-5">
 
           <div data-aos="fade-up" class="aos-init aos-animate">
-						<h3 class="text-center">La sortie de Bootstrap 5 </h3>
             </br></br>
             <ul>
-							<li><strong>intro</strong></li>
+							<li><strong>Mes abonnements </strong></li>
 						</ul>
-            <p>Après plus de <b>trois ans</b> de développement,<b> Bootstrap 5</b> est officiellement disponible. 
-              Il <b>rompt</b> effectivement les liens avec la <b>bibliothèque jQuery pour du pur JavaScript.</b>
-               Les autres nouveautés de cette version incluent un <b>nouveau logo, un nouveau composant offcanvas, nouveau composant accordion,
-              nouveaux composants forms et mise à jour, nouvelle API d'utilitaires etc...</b>
-            </p>
+            <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+
+              <a href="https://www.youtube.com/c/grafikart" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="More Details">
+                <img src="assets/img/grafikart.jpg" class="img-fluid" alt="PPE-1">
+              </a>
+
+              <a href="https://www.youtube.com/c/Sandozprod/featured" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="More Details">
+                <img src="assets/img/sandoz.jpg" class="img-fluid" alt="PPE-1">
+              </a>
+
+              <a href="https://www.youtube.com/c/Micode-Enqu%C3%AAtes/featured" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="More Details">
+                <img src="assets/img/micode.jpg" class="img-fluid" alt="PPE-1">
+              </a>
+
+            </div>
+					</div>
+
+          <div data-aos="fade-up" class="aos-init aos-animate">
             </br></br>
+						<p>
+							</p><ul>
+								<li class="fw-bolder"><i class="bi bi-flower2"></i> Un nouveau logo</li>
+							</ul>
+							L'un des plus grands changements de la version 5 de Bootstrap a été la refonte du logo et la mise à jour du design de la documentation.
+							<br>
+							Les nouveaux documents sont plus clairs, mieux organisés avec de nouvelles sections de contenu, et la navigation est également améliorée.
+						<p></p>
 					</div>
 
         </div>
