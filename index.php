@@ -362,7 +362,13 @@
               <li class="fw-bolder"><i class="bx bx-comment"></i> à propos: </li>
 						</ul>
             <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
-
+              <i>
+                Ma veille informatique est de nature hétérogène, ce qui m'apporte differente connaissances et m'aident à enrichir
+                 ma culture général dans le dommaine de l'informatique, par exemple la chaine youtube de Sandoz me montre comment 
+                 les "Broutteurs" récuperent les DATA de certaines personnes pour ensuite les utiliser (ingénierie sociale), 
+                 mes abonnements Instagram me permettent d'avoir des idées quotidienne en ce qui concerne la mise en page avec le css par exemple,
+                 quand aux sites internet, ils m'aident à résoudre d'éventuels bug et m'apporte un flux d'informations concernant l'actualité informatique.
+              </i>
             </div>
 					</div>
 
@@ -442,6 +448,21 @@
           <div class="section-title">
             <h2>Veille Juridique</h2>
           </div>
+
+          <div data-aos="fade-up" class="aos-init aos-animate">
+            </br></br>
+            <ul>
+              <li class="fw-bolder"><i class="bx bx-comment"></i> à propos: </li>
+						</ul>
+            <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+              <i>
+                Ma veille Juridique porte sur la réglementation RGPD et de ces évolutions en terme de légalité au cours des dernieres années.
+              </i>
+            </div>
+					</div>
+
+          </br></br>
+
           <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
 
             <a href="https://www.lemondeinformatique.fr/actualites/lire-google-analytics-juge-illegal-les-entreprises-dans-l-impasse-86193.html" target="_blank" class="col-lg-4 col-md-6 button button3" title="Google Analytics jugé illegal">
