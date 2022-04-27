@@ -363,11 +363,19 @@
 						</ul>
             <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
               <i>
-                Ma veille informatique est de nature hétérogène, ce qui m'apporte differente connaissances et m'aident à enrichir
+                Ma veille informatique est de nature hétérogène, ce qui m'apporte différente connaissances et m'aident à enrichir
                  ma culture général dans le dommaine de l'informatique, par exemple la chaine youtube de Sandoz me montre comment 
-                 les "Broutteurs" récuperent les DATA de certaines personnes pour ensuite les utiliser (ingénierie sociale), 
+                 les <a href="https://fr.wikipedia.org/wiki/Brouteur_(Internet)#:~:text=Un%20brouteur%20est%20un%20arnaqueur,apparu%20dans%20les%20ann%C3%A9es%202000." target="blank" title="Qu'est ce qu'un Broutteurs ?">"Broutteurs"</a> 
+                 récuperent les données personnelles de certaines personnes pour ensuite les utiliser à leur insu 
+                 (<a href="https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_sociale_(s%C3%A9curit%C3%A9_de_l%27information)" target="blank" title="Qu'est ce que l'ingénierie sociale ?">ingénierie sociale</a>), 
                  mes abonnements Instagram me permettent d'avoir des idées quotidienne en ce qui concerne la mise en page avec le css par exemple,
                  quand aux sites internet, ils m'aident à résoudre d'éventuels bug et m'apporte un flux d'informations concernant l'actualité informatique.
+                 Par exemple la derniere information importante ma été communiquer par 
+                 <a href="https://www.lemondeinformatique.fr/actualites/lire-des-depots-github-compromis-par-des-tokens-oauth-voles-86495.html" target="blank" title="Cliquez pour voir l'article">Le monde Informatique</a> 
+                 le 19 Avril 2022 concernant une attaque informatique sur la 
+                 <a href="https://fr.wikipedia.org/wiki/Platform_as_a_service" target="blank" title="Cliquez pour plus d'information sur la Paas">Paas</a> de
+                 <a href="https://www.lebigdata.fr/heroku-definition" target="blank" title="Cliquez pour plus d'information sur Heroku">Heroku</a>, 
+                 information utlile puisque ce Portfolio est hebergé sur heroku.
               </i>
             </div>
 					</div>
@@ -427,8 +435,8 @@
                 <img src="assets/img/ferme.jpg" class="img-fluid" alt="PPE-1">
               </a>
 
-              <a href="https://www.nextinpact.com/" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="nextinpact">
-                <img src="assets/img/next.jpg" class="img-fluid" alt="PPE-1">
+              <a href="https://www.lemondeinformatique.fr/" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="lemondeinformatique">
+                <img src="assets/img/lmi.jpg" class="img-fluid" alt="PPE-1">
               </a>
 
               <a href="https://stackoverflow.com/" target="blank" class="button button2 col-lg-4 col-md-6 portfolio-item filter-PP folio" title="StackOverflow">
@@ -456,7 +464,9 @@
 						</ul>
             <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
               <i>
-                Ma veille Juridique porte sur la réglementation RGPD et de ces évolutions en terme de légalité au cours des dernieres années.
+                Ma veille Juridique porte sur la réglementation 
+                <a href="https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es" target="blank" title="Qu'est ce que la RGPD ?">RGPD</a> 
+                et de ces évolutions en terme de légalité au cours des dernieres années.
               </i>
             </div>
 					</div>
