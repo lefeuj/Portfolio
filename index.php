@@ -49,13 +49,14 @@
           <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
           <h1 class="text-light"><a href="index.php">Nicolas Créteur</a></h1>
         </div>
-
+        
         <nav id="navbar" class="nav-menu navbar">
           <ul>
             <li><a href="index.php" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Accueil </span></a></li>
             <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>À propos</span></a></li>
             <li><a href="#skills" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Compétences</span></a></li>
             <li><a href="#Tableau" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Tableau de Synthèse</span></a></li>
+            <li><a href="#Rapport" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Rapport de stage</span></a></li>
             <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-folder-open"></i> <span>Portfolio</span></a></li>
             <li><a href="#Informatique" class="nav-link scrollto"><i class="bx bx-task"></i> <span>Veille Informatique </span></a></li>
             <li><a href="#Juridique" class="nav-link scrollto"><i class="bx bx bx-task"></i> <span> Veille Juridique</span></a></li>
@@ -77,61 +78,61 @@
     <!-- ======= Main Section ======= -->
     <main id="main">
 
-      <!-- ======= About Section ======= -->
-      <section id="about" class="about">
-        <div class="container">
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
 
-          <div class="section-title">
-            <h2>À propos</h2>
-          </div>
-
-          <div class="row">
-            <div class="col-lg-4" data-aos="fade-right">
-              <img src="assets/img/profile-img1.jpg" class="img-fluid" alt="">
-            </div>
-            <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-              <h3> Developer Junior </h3>
-              <p class="fst-italic">
-              </p>
-              <div class="row">
-                <div class="col-lg-6">
-                  <ul>
-                    <li><i class="bi bi-chevron-right"></i> <strong>Telephone:</strong> <span>+33 6 52 98 79 68</span></li>
-                    <li><i class="bi bi-chevron-right"></i> <strong>Adresse:</strong> <span>149 Boulevard Rene Cassin, Nice France</span></li>
-                    <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>creteur.nicolas@orange.fr</span></li>
-                  </ul>
-                </div>
-                <div class="col-lg-6">
-                  <ul>
-                    <li><i class="bi bi-chevron-right"></i> <strong>Etablissement:</strong> <span>UFIP Business School</span></li>
-                    <li><i class="bi bi-chevron-right"></i> <strong>Etude:</strong> <span>BTS SIO</span></li>
-                    <li><i class="bi bi-chevron-right"></i> <strong>Option:</strong> <span>SLAM</span></li>
-                    <li><i class="bi bi-chevron-right"></i> <strong>Entreprise:</strong> <span>//</span></li>
-                  </ul>
-                </div>
-              </div>
-
-              <a href="./assets/img/CV.pdf" class="btn btncv" target="_blank" tabindex="-1" role="button" aria-disabled="true"> Visualiser le CV </a>
-              <a href="./assets/img/CV.pdf" download="CV Créteur Nicolas" class="btn btncv">Télécharger le CV</a>
-
-            </div>
-          </div>
-
+        <div class="section-title">
+          <h2>À propos</h2>
         </div>
-      </section>
-      <!-- End About Section -->
+
+        <div class="row">
+          <div class="col-lg-4" data-aos="fade-right">
+            <img src="assets/img/profile-img1.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+            <h3> Developer Junior </h3>
+            <p class="fst-italic">
+            </p>
+            <div class="row">
+              <div class="col-lg-6">
+                <ul>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Telephone:</strong> <span>+33 6 52 98 79 68</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Adresse:</strong> <span>149 Boulevard Rene Cassin, Nice France</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>creteur.nicolas@orange.fr</span></li>
+                </ul>
+              </div>
+              <div class="col-lg-6">
+                <ul>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Etablissement:</strong> <span>UFIP Business School</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Etude:</strong> <span>BTS SIO</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Option:</strong> <span>SLAM</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Entreprise:</strong> <span>//</span></li>
+                </ul>
+              </div>
+            </div>
+
+            <a href="./assets/img/CV.pdf" class="btn btncv" target="_blank" tabindex="-1" role="button" aria-disabled="true"> Visualiser le CV </a>
+            <a href="./assets/img/CV.pdf" download="CV Créteur Nicolas" class="btn btncv">Télécharger le CV</a>
+
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <!-- End About Section -->
 
       
-      <!-- ======= Skills Section ======= -->
-      <section id="skills" class="skills section-bg">
-        <div class="container">
+    <!-- ======= Skills Section ======= -->
+    <section id="skills" class="skills section-bg">
+      <div class="container">
 
-          <div class="section-title">
-            <h2>Compétences</h2>
-            <p> Proportion d'utilisation des languages et scripts utilisés sur mes deux années :</p> 
-          </div>
+        <div class="section-title">
+          <h2>Compétences</h2>
+          <p> Proportion d'utilisation des languages et scripts utilisés sur mes deux années :</p> 
+        </div>
 
-          <div class="row skills-content" style="margin-left:3em">
+        <div class="row skills-content" style="margin-left:3em">
 
             <div class="col-lg-3 circle" data-aos="fade-up">
 
@@ -198,11 +199,11 @@
 
             </div>
 
-          </div>
+        </div>
 
-          <p> Proportion d'utilisation des IDE sur mes deux années :</p> 
+        <p> Proportion d'utilisation des IDE sur mes deux années :</p> 
 
-          <div class="row skills-content" style="margin-left:3em">
+        <div class="row skills-content" style="margin-left:3em">
 
             <div class="col-lg-3 circle" data-aos="fade-up">
 
@@ -248,26 +249,44 @@
 
             </div>
 
-          </div>
+        </div>
 
         </div>
-      </section>
-      <!-- End Skills Section -->
+    </section>
+    <!-- End Skills Section -->
 
-      <!-- ======= Synthèse Section ======= -->
-      <section id="Tableau" class="about">
+    <!-- ======= Synthèse Section ======= -->
+    <section id="Tableau" class="about">
         <div class="container">
           <div class="section-title">
             <h2>Tableau de Synthèse</h2>
           </div>
-          <embed src="./assets/img/Tableau de synthese.pdf" width="90%" height="500" type="application/pdf">
+          <embed src="./assets/img/Tableau de synthese.pdf" width="95%" height="600" type="application/pdf">
           </br></br>
         </div>
-      </section>
-      <!-- End Synthèse Section -->
+        <div class="container">
+          <a href="./assets/img/Tableau de synthese.pdf" download="Tableau de synthese" class="btn btncv">Télécharger le Tableau de synthese</a>
+        </div>
+    </section>
+    <!-- End Synthèse Section -->
 
-      <!-- ======= Portfolio Section ======= -->
-      <section id="portfolio" class="portfolio ">
+    <!-- ======= Rapport de stage Section ======= -->
+    <section id="Rapport" class="about">
+        <div class="container">
+          <div class="section-title">
+            <h2>Rapport de stage</h2>
+          </div>
+          <embed src="./assets/img/Rapport de stage.pdf" width="95%" height="600" type="application/pdf">
+          </br></br>
+        </div>
+        <div class="container">
+          <a href="./assets/img/Rapport de stage.pdf" download="Rapport de stage" class="btn btncv">Télécharger le Rapport de stage</a>
+        </div>
+    </section>
+    <!-- End Rapport de stage Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio ">
         <div class="container">
 
           <div class="section-title">
@@ -346,11 +365,11 @@
           </div>
 
         </div>
-      </section>
-      <!-- End Portfolio Section -->
+    </section>
+    <!-- End Portfolio Section -->
 
-      <!-- ======= Informatique Section ======= -->
-      <section id="Informatique" class="about">
+    <!-- ======= Informatique Section ======= -->
+    <section id="Informatique" class="about">
         <div class="container">
           <div class="section-title">
             <h2>Veille Informatique</h2>
@@ -447,11 +466,11 @@
 					</div>
 
         </div>
-      </section>
-      <!-- End veille Section -->
+    </section>
+    <!-- End veille Section -->
 
-      <!-- ======= Juridique Section ======= -->
-      <section id="Juridique" class="about">
+    <!-- ======= Juridique Section ======= -->
+    <section id="Juridique" class="about">
         <div class="container">
           <div class="section-title">
             <h2>Veille Juridique</h2>
@@ -501,8 +520,8 @@
 
           </div>
         </div>
-      </section>
-      <!-- End veille Section -->
+    </section>
+    <!-- End veille Section -->
 
     </main>
     <!-- End #main -->
