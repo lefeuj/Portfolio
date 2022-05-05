@@ -92,7 +92,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4">
+          <div class=" col-lg-4">
             <div class="portfolio-info">
               <h3>Details du projet</h3>
               <ul>
@@ -100,8 +100,8 @@
                 <li><strong>Statut</strong>: Achevé </li>
                 <li><strong>But</strong>: Créer un ticket </li>
                 <li><strong>Date du Projet</strong>: 02/12/2021</li>
-                <li><a href="assets/programmes/Nicolas_Creteur_GSBCR_Source_Code.zip" download="GSBCR_source_code" class="btn btn-success btn-sm">Télécharger le Code source</a></li>
-                <li><a href="assets/programmes/Nicolas_Creteur_GSBCR_Bin.zip" download="GSBCR_Bin" class="btn btn-success btn-sm">Télécharger le Bin</a></li>
+                <li><a href="assets/programmes/Nicolas_Creteur_GSBCR_Source_Code.zip" download="Nicolas_Creteur_GSBCR_Source_Code.zip" class="btn btn-success btn-sm">Télécharger le Code source</a></li>
+                <li><a href="assets/programmes/Nicolas_Creteur_GSBCR_Bin.zip" download="Nicolas_Creteur_GSBCR_Bin.zip" class="btn btn-success btn-sm">Télécharger le Bin</a></li>
               </ul>
             </div>
             <div class="portfolio-description">
