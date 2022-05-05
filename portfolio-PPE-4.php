@@ -100,7 +100,8 @@
                 <li><strong>Statut</strong>: Achevé </li>
                 <li><strong>But</strong>: Créer un ticket </li>
                 <li><strong>Date du Projet</strong>: 02/12/2021</li>
-                <li><a href="assets/programmes/Ticket.zip" download="WinAppTicket" class="btn btn-success btn-sm">Télécharger le zip</a></li>
+                <li><a href="assets/programmes/Nicolas_Creteur_GSBCR_Source_Code.zip" download="GSBCR_source_code" class="btn btn-success btn-sm">Télécharger le Code source</a></li>
+                <li><a href="assets/programmes/Nicolas_Creteur_GSBCR_Bin.zip" download="GSBCR_Bin" class="btn btn-success btn-sm">Télécharger le Bin</a></li>
               </ul>
             </div>
             <div class="portfolio-description">
