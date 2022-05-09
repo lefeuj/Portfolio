@@ -80,11 +80,11 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="xxx" alt="">
+                  <img src="assets/img/portfolio/m2l.jpg" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="xxx" alt="">
+                  <img src="assets/img/portfolio/m2l2.jpg" alt="">
                 </div>
 
               </div>
@@ -99,8 +99,8 @@
                 <li><strong>Language</strong>: PHP</li>
                 <li><strong>Statut</strong>: Inachevé </li>
                 <li><strong>But</strong>: Créer un site web </li>
-                <li><strong>Date du Projet</strong>: 31/01/2022</li>
-                <li><a href="xxx" download="M2L" class="btn btn-success btn-sm">Télécharger le zip</a></li>
+                <li><strong>Date du Projet</strong>: 15/12/2021</li>
+                <li><a href="assets/programmes/Nicolas_Creteur_maison_des_ligues.zip" download="Nicolas_Creteur_maison_des_ligues" class="btn btn-success btn-sm">Télécharger le zip</a></li>
               </ul>
             </div>
             <div class="portfolio-description">

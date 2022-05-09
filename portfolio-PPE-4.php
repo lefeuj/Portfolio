@@ -98,8 +98,8 @@
               <ul>
                 <li><strong>Language</strong>: C#</li>
                 <li><strong>Statut</strong>: Achevé </li>
-                <li><strong>But</strong>: Créer un ticket </li>
-                <li><strong>Date du Projet</strong>: 02/12/2021</li>
+                <li><strong>But</strong>: Créer un Compte rendu </li>
+                <li><strong>Date du Projet</strong>: 23/01/2022</li>
                 <li><a href="assets/programmes/Nicolas_Creteur_GSBCR_Source_Code.zip" download="Nicolas_Creteur_GSBCR_Source_Code.zip" class="btn btn-success btn-sm">Télécharger le Code source</a></li>
                 <li><a href="assets/programmes/Nicolas_Creteur_GSBCR_Bin.zip" download="Nicolas_Creteur_GSBCR_Bin.zip" class="btn btn-success btn-sm">Télécharger le Bin</a></li>
               </ul>
@@ -107,7 +107,7 @@
             <div class="portfolio-description">
               <h2>A propos de ce projet</h2>
               <p>
-                Ce petit programme à pour but de créer et d'archiver des tickets utilisateurs, ébergés sur une base de données, et proteger par mot de passe.
+                Ce petit programme à pour but de créer et d'archiver des comptes rendu utilisateurs, ébergés sur une base de données SQL server 2018, et proteger par login et mot de passe.
               </p>
             </div>
           </div>

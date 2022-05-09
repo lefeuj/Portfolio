@@ -311,15 +311,15 @@
             </a>
 
             <a href="portfolio-PPE-2.php" class="button ppe col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="WinAppTicket">
-              <img src="assets/img/portfolio/ppe-2.jpg" class="img-fluid" alt="PPE-1">
+              <img src="assets/img/portfolio/ppe-2.jpg" class="img-fluid" alt="PPE-2">
             </a>
 
             <a href="portfolio-PPE-3.php" class="button ppe col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="La Maison des Ligues">
-              <img src="assets/img/portfolio/ppe-3.jpg" class="img-fluid" alt="PPE-1">
+              <img src="assets/img/portfolio/ppe-3.jpg" class="img-fluid" alt="PPE-3">
             </a>
 
             <a href="portfolio-PPE-4.php" class="button ppe col-lg-4 col-md-6 portfolio-item filter-PPE folio" title="GSBCR">
-              <img src="assets/img/portfolio/ppe-4.jpg" class="img-fluid" alt="PPE-1">
+              <img src="assets/img/portfolio/ppe-4.jpg" class="img-fluid" alt="PPE-4">
             </a>
 
             <a href="portfolio-PE-1.php" class="button col-lg-4 col-md-6 portfolio-item filter-PE folio" title="Palindrome">
