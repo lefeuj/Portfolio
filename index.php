@@ -323,43 +323,47 @@
             </a>
 
             <a href="portfolio-PE-1.php" class="button col-lg-4 col-md-6 portfolio-item filter-PE folio" title="Palindrome">
-              <img src="assets/img/portfolio/portfolio-details-10.jpg" class="img-fluid" alt="PPE-1">
+              <img src="assets/img/portfolio/portfolio-details-10.jpg" class="img-fluid" alt="PE-1">
             </a>
 
             <a href="portfolio-PE-2.php" class="button col-lg-4 col-md-6 portfolio-item filter-PE folio" title="Recherche Dicotomique">
-              <img src="assets/img/portfolio/portfolio-details-12.jpg" class="img-fluid" alt="PPE-1">
+              <img src="assets/img/portfolio/portfolio-details-12.jpg" class="img-fluid" alt="PE-2">
             </a>
 
             <a href="portfolio-PE-3.php" class="button col-lg-4 col-md-6 portfolio-item filter-PE folio" title="Manipulation de liste">
-              <img src="assets/img/portfolio/portfolio-details-14.jpg" class="img-fluid" alt="PPE-1">
+              <img src="assets/img/portfolio/portfolio-details-14.jpg" class="img-fluid" alt="PE-3">
             </a>
 
             <a href="portfolio-PE-4.php" class="button col-lg-4 col-md-6 portfolio-item filter-PE folio" title="Conversion de bases">
-              <img src="assets/img/portfolio/portfolio-details-16.jpg" class="img-fluid" alt="PPE-1">
+              <img src="assets/img/portfolio/portfolio-details-16.jpg" class="img-fluid" alt="PE-4">
             </a>
 
             <a href="portfolio-PE-5.php" class="button col-lg-4 col-md-6 portfolio-item filter-PE folio" title="Curiculum-Vitae">
-              <img src="assets/img/portfolio/portfolio-details-20.jpg" class="img-fluid" alt="PPE-1">
+              <img src="assets/img/portfolio/portfolio-details-20.jpg" class="img-fluid" alt="PE-5">
             </a>
 
             <a href="portfolio-PP-1.php" class="button col-lg-4 col-md-6 portfolio-item filter-PP folio" title="Le Juste Prix">
-              <img src="assets/img/portfolio/portfolio-details-4.jpg" class="img-fluid" alt="PPE-1">
+              <img src="assets/img/portfolio/portfolio-details-4.jpg" class="img-fluid" alt="PP-1">
             </a>
 
             <a href="portfolio-PP-2.php" class="button col-lg-4 col-md-6 portfolio-item filter-PP folio" title="Test MAC / Mail / IP">
-              <img src="assets/img/portfolio/portfolio-details-7.jpg" class="img-fluid" alt="PPE-1">
+              <img src="assets/img/portfolio/portfolio-details-7.jpg" class="img-fluid" alt="PP-2">
             </a>
 
             <a href="portfolio-PP-3.php" class="button col-lg-4 col-md-6 portfolio-item filter-PP folio" title="Le jeu du pendu">
-              <img src="assets/img/portfolio/portfolio-details-17.jpg" class="img-fluid" alt="PPE-1">
+              <img src="assets/img/portfolio/portfolio-details-17.jpg" class="img-fluid" alt="PP-3">
             </a>
 
             <a href="portfolio-PP-4.php" class="button col-lg-4 col-md-6 portfolio-item filter-PP folio" title="Utilisation du module turtle">
-              <img src="assets/img/portfolio/portfolio-details-21.jpg" class="img-fluid" alt="PPE-1">
+              <img src="assets/img/portfolio/portfolio-details-21.jpg" class="img-fluid" alt="PP-4">
             </a>
 
             <a href="portfolio-PP-5.php" class="button col-lg-4 col-md-6 portfolio-item filter-PP folio" title="Projets 3D Blender">
-              <img src="assets/img/portfolio/portfolio-details-26.jpg" class="img-fluid" alt="PPE-1">
+              <img src="assets/img/portfolio/portfolio-details-26.jpg" class="img-fluid" alt="PP-5">
+            </a>
+
+            <a href="portfolio-PP-6.php" class="button col-lg-4 col-md-6 portfolio-item filter-PP folio" title="Probleme Heroku">
+              <img src="assets/img/portfolio/heroku.jpg" class="img-fluid" alt="PP-6">
             </a>
 
           </div>
