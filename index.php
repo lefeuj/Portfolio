@@ -299,7 +299,7 @@
                 <li data-filter="*" class="btn btncv filter-active">Tout les Projets</li>
                 <li data-filter=".filter-PPE" class="btn btncv">PPE</li>
                 <li data-filter=".filter-PE" class="btn btncv">Projets Encadrés</li>
-                <li data-filter=".filter-PP" class="btn btncv">Projets Personnel</li>
+                <li data-filter=".filter-PP" class="btn btncv">Projets Personnelles</li>
               </ul>
             </div>
           </div>
